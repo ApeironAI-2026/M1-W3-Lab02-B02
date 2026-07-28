@@ -8,7 +8,7 @@
 | **Week** | Week 3 |
 | **Lab** | Lab02 — The Evidence Pack |
 | **Topic** | Feature engineering · imputation · outlier treatment · log transform · one-hot encoding · scaling · named aggregations · `pd.merge` |
-| **Duration** | **≈ 4 hours 50 minutes** of lab work, **plus ~10 minutes of setup** |
+| **Duration** | **≈ 1 hour** of lab work, **plus ~10 minutes of setup** |
 | **Difficulty** | ⭐⭐⭐ Beginner, level 3 — **you speak pandas now** |
 
 Mrs Adeyemi released the first tranche and wants one more thing before signing off the rest: *"I need to see how the business **behaves**, not just what it **earned**."* There is exactly one document that answers that, and you have been avoiding it for eighteen months because it is unbearable to look at — **the bank statement**, 1,440 rows of `\N`, `NaN`, comma-riddled numbers and dates stored as text.
@@ -122,13 +122,13 @@ On **Mac**, or if `py` is not recognised, use `python3 -m pip install …` and `
 | `practice/` | Nine practice problems, including the capstone evidence pack. **Your code goes here.** |
 | `solutions/` | Worked solutions. Have a real go first. |
 
-> 🛋️ **Split this across two or three sittings.** The natural break is after **Cluster C**, when the statement is finally clean. Everything before that break is repair work; everything after is building. They feel like different days, and it is fine to make them different days.
+> 🛋️ **Aim for one sitting of about an hour.** If you do need to pause, the natural break is after **Cluster C**, when the statement is finally clean. Everything before that break is repair work; everything after is building.
 
 ---
 
 ## 4. 💾 Saving your work back to GitHub
 
-From inside `Lab02`, at the end of each sitting:
+From inside `Lab02`, when you finish, or any time you pause:
 
 ```text
 git add .

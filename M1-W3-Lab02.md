@@ -8,10 +8,10 @@
 | **Module** | M1: AI/ML Fundamentals |
 | **Week** | Week 3 |
 | **Lab** | Lab02 — The Evidence Pack |
-| **Duration** | **≈ 4 hours 50 minutes** of lab work (**plus ~10 minutes of setup, not counted**) |
+| **Duration** | **≈ 1 hour** of lab work (**plus ~10 minutes of setup, not counted**) |
 | **Difficulty** | ⭐⭐⭐ Beginner, level 3 — **you speak pandas now** |
 
-> 🛋️ **Split this across two or three sittings.** The natural break is after **Cluster C**, when the statement is finally clean. Everything before that break is repair work; everything after is building. They feel like different days, and it is fine to make them different days.
+> 🛋️ **Aim for one sitting of about an hour.** If you do need to pause, the natural break is after **Cluster C**, when the statement is finally clean. Everything before that break is repair work; everything after is building.
 
 ### What you learned in class (and will now make your own)
 
